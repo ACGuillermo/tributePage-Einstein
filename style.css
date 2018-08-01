@@ -1,0 +1,42 @@
+#main{
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.title{
+  background: #eee;
+  text-align: center;
+  padding:1em;
+  width: 70vw;
+  margin: auto;
+  border-radius: 5px;
+}
+#img-div{
+  text-align: center;
+  margin-top: 1em;
+  width: 70vw;
+  margin-right: auto;
+  margin-left:auto;
+}
+#image {
+  width: 30%;
+  height: auto;
+  border-radius: 10px;
+}
+#img-caption{
+  font-size: 1vw;
+}
+#tribute-info{
+  width: 100vw;
+}
+.timeline{
+  width: 70vw;
+  margin:auto;
+  background: #eee;
+  padding: 1em;
+}
+
+.timeline li{
+  padding-top: 10px;
+}
